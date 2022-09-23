@@ -1,28 +1,11 @@
-# co0764af7bcc2738e9be81e9a
+# Notes App
+The majority of individuals don't simply take notes for the sake of it. Instead, they're done with a goal in mind, such as to help you create an outline for your new book or to remind you to email a friend, among a million other things.
 
-Quick start:
+This project is part of the Scrimba Course: Learn React for Free
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+* HTML
+* CSS
+* JavaScript
+* React
 
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-```
-
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+![image](https://user-images.githubusercontent.com/91674419/191996680-44050a0f-47e0-4f2b-8d7f-7adab4d27e77.png)
